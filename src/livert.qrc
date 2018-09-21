@@ -1,0 +1,23 @@
+<RCC>
+    <qresource prefix="/">
+        <file>livert/error_qt5.qml</file>
+        <file>livert/logo.png</file>
+        <file>livert/imageviewer_qt5.qml</file>
+        <file>images/favicon.png</file>
+        <file>livert/folderview_qt5.qml</file>
+        <file>livert/fontviewer_qt5.qml</file>
+        <file>livert/no.png</file>
+        <file>livert/error_qt5_controls.qml</file>
+        <file>livert/folderview_qt5_controls.qml</file>
+        <file>livert/fontviewer_qt5_controls.qml</file>
+        <file>livert/imageviewer_qt5_controls.qml</file>
+        <file>images/menu.svg</file>
+        <file>images/publish.svg</file>
+        <file>images/refresh.svg</file>
+        <file>images/linked.svg</file>
+        <file>images/error_ball.svg</file>
+        <file>images/okay_ball.svg</file>
+        <file>images/warning_ball.svg</file>
+        <file>images/edit.svg</file>
+    </qresource>
+</RCC>

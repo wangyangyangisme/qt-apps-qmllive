@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/qml">
+        <file>qmlsplash/logo_white.png</file>
+        <file>qmlsplash/splash-qt5.qml</file>
+    </qresource>
+</RCC>
